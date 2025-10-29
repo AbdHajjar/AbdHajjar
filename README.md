@@ -12,9 +12,9 @@ My work combines architectural design with hands-on engineering — bridging the
 
 **Main areas of expertise include:**  
 - 🧱 **Software Architecture & System Design** (modular monoliths, distributed systems, domain-driven design)  
-- ⚙️ **Backend Engineering** (Node.js, .NET, Python, Java)  
-- 🔗 **API & Integration Design** (REST, GraphQL, event-driven patterns)  
-- ☁️ **Infrastructure & Cloud** (AWS, Docker, CI/CD automation)  
+- ⚙️ **Backend Engineering** (Python, Java)  
+- 🔗 **API & Integration Design** (REST, event-driven patterns)  
+- ☁️ **Infrastructure & Cloud** (Docker, CI/CD automation)  
 - 🧪 **Code Quality & Governance** (testing strategies, code reviews, documentation culture)  
 
 ---
@@ -42,13 +42,6 @@ Experimenting with **automation**, **developer experience (DX)**, and **AI-assis
 
 ### 🌍 Beyond Code
 Active in **community and voluntary IT education** since 2023 — advocating for sustainable and ethical software development practices.  
-
----
-
-### 📫 Connect
-- **LinkedIn:** [your-link-here]  
-- **GitHub:** [github.com/abdalrahmanhajjar](https://github.com/abdalrahmanhajjar)  
-- **Email:** [your-email-here]  
 
 ---
 
