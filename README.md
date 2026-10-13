@@ -1,48 +1,34 @@
-### 👋 Hi, I’m Abd Alrahman Hajjar  
+# Abd Alrahman Hajjar
 
-**Software Architect & Senior Engineer**  
-Certified **Computer Science Expert (IHK/CCI, 🇩🇪)** – Software Development  
-Active in the industry since **2018**, **IHK/CCI examiner**, and engaged in **voluntary IT work since 2023**  
+Software Architect and Senior Engineer, based in Germany. I have worked in software development since 2018, mostly on backend systems in Python and Java, and increasingly on how those systems are structured, documented and evolved over time.
 
----
+## Qualifications
 
-### 🧭 Professional Focus
-I design and build software systems that balance **scalability, maintainability, and clarity**.  
-My work combines architectural design with hands-on engineering — bridging the gap between concept and implementation.  
+- **iSAQB Certified Professional for Software Architecture – Foundation Level (CPSA-F)**, September 2026
+- **Fachinformatiker für Anwendungsentwicklung (IHK)** – state-certified IT specialist for software development
 
-**Main areas of expertise include:**  
-- 🧱 **Software Architecture & System Design** (modular monoliths, distributed systems, domain-driven design)  
-- ⚙️ **Backend Engineering** (Python, Java)  
-- 🔗 **API & Integration Design** (REST, event-driven patterns)  
-- ☁️ **Infrastructure & Cloud** (Docker, CI/CD automation)  
-- 🧪 **Code Quality & Governance** (testing strategies, code reviews, documentation culture)  
+I also serve as an examiner for the IHK, assessing final examinations of trainees in IT professions.
 
----
+## Areas of work
 
-### 🧩 Technical Principles
-> "Architecture over frameworks. Tools change — design principles endure."  
-> "Readability is a feature. Code should communicate intent as much as logic."  
-> "Simplicity scales. The most maintainable systems are the ones that age well."
+- **Software architecture** – modular monoliths, distributed systems, domain-driven design, architecture documentation and decision records (ADRs)
+- **Backend development** – Python, Java
+- **APIs and integration** – REST, event-driven communication
+- **Delivery** – Docker, CI/CD pipelines, migration of existing applications to cloud environments
+- **Engineering practice** – testing strategies, code reviews, technical documentation
 
----
+## Selected experience
 
-### 🛠 Selected Highlights
-- Designed and refactored enterprise-grade applications focusing on modularization and clear service boundaries.  
-- Mentored development teams and established internal architecture guidelines.  
-- Built CI/CD pipelines and migration strategies for cloud-native deployments.  
-- Served as **IHK/CCI examiner**, supporting the next generation of software professionals.  
+- Restructured existing enterprise applications into clearly separated modules and services.
+- Defined architecture guidelines for development teams and supported their adoption through reviews and mentoring.
+- Built CI/CD pipelines and planned the migration of applications to cloud-based deployments.
 
----
+## Currently
 
-### 🧑‍💻 Current Interests
-Exploring **software evolution patterns**, **domain modeling**, and **architecture decision records (ADR)**.  
-Experimenting with **automation**, **developer experience (DX)**, and **AI-assisted engineering workflows**.  
+- Applying the iSAQB methodology to quality requirements, architecture evaluation and documentation in day-to-day projects.
+- Domain modelling and the long-term evolution of software systems.
+- Developer experience and the practical use of AI tools in engineering workflows.
 
----
+## Outside of work
 
-### 🌍 Beyond Code
-Active in **community and voluntary IT education** since 2023 — advocating for sustainable and ethical software development practices.  
-
----
-
-⭐️ *"Build systems that stand the test of time — not trends."*
+Since 2023 I have been teaching IT skills on a voluntary basis in community projects.
