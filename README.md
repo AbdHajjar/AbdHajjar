@@ -1,34 +1,85 @@
-# Abd Alrahman Hajjar
+<h1 align="center">Abd Alrahman Hajjar</h1>
 
-Software Architect and Senior Engineer, based in Germany. I have worked in software development since 2018, mostly on backend systems in Python and Java, and increasingly on how those systems are structured, documented and evolved over time.
+<p align="center">
+  <img alt="Software Architect · Senior Backend Engineer · iSAQB CPSA-F certified · IHK examiner"
+       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Architect;Senior+Backend+Engineer;iSAQB+CPSA-F+certified;IHK+examiner">
+</p>
 
-## Qualifications
+<p align="center">
+  <img alt="Based in Germany" src="https://img.shields.io/badge/based_in-Germany-2f81f7?style=flat-square">
+  <img alt="Since 2018" src="https://img.shields.io/badge/in_software_since-2018-2f81f7?style=flat-square">
+  <img alt="iSAQB CPSA-F" src="https://img.shields.io/badge/iSAQB-CPSA--F-2f81f7?style=flat-square">
+</p>
 
-- **iSAQB Certified Professional for Software Architecture – Foundation Level (CPSA-F)**, September 2026
+I design and evolve backend systems in Python and Java, with a focus on clear module boundaries, documented decisions and systems that stay changeable over the years.
+
+---
+
+### 🧭 What I work on
+
+| Area | Focus |
+|---|---|
+| **Software architecture** | Modular monoliths, distributed systems, domain-driven design, ADRs |
+| **Backend** | Python, Java |
+| **APIs & integration** | REST, event-driven communication |
+| **Delivery** | Docker, CI/CD pipelines, migration to cloud environments |
+| **Engineering practice** | Testing strategies, code reviews, technical documentation |
+
+<p align="center">
+  <img alt="Python, Java, Docker, Git, Dart, Flutter" src="https://skillicons.dev/icons?i=py,java,docker,git,dart,flutter">
+</p>
+
+### 🏗️ Selected experience
+
+- **Modularisation** – restructured existing enterprise applications into clearly separated modules and services.
+- **Architecture guidelines** – defined guidelines for development teams and anchored them through reviews and mentoring.
+- **Cloud migration** – built CI/CD pipelines and planned the move of applications to cloud-based deployments.
+
+### 🎓 Qualifications
+
+- **iSAQB CPSA-F** – Certified Professional for Software Architecture, Foundation Level (September 2026)
 - **Fachinformatiker für Anwendungsentwicklung (IHK)** – state-certified IT specialist for software development
+- **IHK examiner** – assessing final examinations of trainees in IT professions
 
-I also serve as an examiner for the IHK, assessing final examinations of trainees in IT professions.
+### 🔭 Currently focused on
 
-## Areas of work
+- Quality requirements, architecture evaluation and documentation with the iSAQB methodology
+- Domain modelling and the long-term evolution of software systems
+- Developer experience and the practical use of AI tools in engineering workflows
 
-- **Software architecture** – modular monoliths, distributed systems, domain-driven design, architecture documentation and decision records (ADRs)
-- **Backend development** – Python, Java
-- **APIs and integration** – REST, event-driven communication
-- **Delivery** – Docker, CI/CD pipelines, migration of existing applications to cloud environments
-- **Engineering practice** – testing strategies, code reviews, technical documentation
+### 🤝 Beyond work
 
-## Selected experience
+Teaching IT skills as a volunteer in community projects since 2023.
 
-- Restructured existing enterprise applications into clearly separated modules and services.
-- Defined architecture guidelines for development teams and supported their adoption through reviews and mentoring.
-- Built CI/CD pipelines and planned the migration of applications to cloud-based deployments.
+---
 
-## Currently
+### 📊 GitHub activity
 
-- Applying the iSAQB methodology to quality requirements, architecture evaluation and documentation in day-to-day projects.
-- Domain modelling and the long-term evolution of software systems.
-- Developer experience and the practical use of AI tools in engineering workflows.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/stats-dark.svg">
+    <img alt="GitHub stats" height="170" src="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/stats-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/top-langs-dark.svg">
+    <img alt="Top languages" height="170" src="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/top-langs-light.svg">
+  </picture>
+</p>
 
-## Outside of work
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbdHajjar&theme=github-dark-blue&hide_border=true">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=AbdHajjar&theme=default&hide_border=true">
+  </picture>
+</p>
 
-Since 2023 I have been teaching IT skills on a voluntary basis in community projects.
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdHajjar&theme=github-compact&hide_border=true&area=true">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/snake-dark.svg">
+    <img alt="Snake eating the contribution grid" src="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/snake-light.svg">
+  </picture>
+</p>
