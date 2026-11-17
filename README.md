@@ -68,17 +68,6 @@ Teaching IT skills as a volunteer in community projects since 2023.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbdHajjar&theme=github-dark-blue&hide_border=true">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=AbdHajjar&theme=default&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdHajjar&theme=github-compact&hide_border=true&area=true">
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/snake-dark.svg">
     <img alt="Snake eating the contribution grid" src="https://raw.githubusercontent.com/AbdHajjar/AbdHajjar/output/snake-light.svg">
   </picture>
