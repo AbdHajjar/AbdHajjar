@@ -26,7 +26,11 @@ I design and evolve backend systems in Python and Java, with a focus on clear mo
 | **Engineering practice** | Testing strategies, code reviews, technical documentation |
 
 <p align="center">
-  <img alt="Python, Java, Docker, Git, Dart, Flutter" src="https://skillicons.dev/icons?i=py,java,docker,git,dart,flutter">
+  <b>Languages</b><br>
+  <img alt="Python, Java, TypeScript, JavaScript, Rust, C++, Dart, HTML, CSS" src="https://skillicons.dev/icons?i=py,java,ts,js,rust,cpp,dart,html,css">
+  <br><br>
+  <b>Frameworks, data &amp; tooling</b><br>
+  <img alt="Flutter, PostgreSQL, Docker, Git" src="https://skillicons.dev/icons?i=flutter,postgres,docker,git">
 </p>
 
 ### 🏗️ Selected experience
